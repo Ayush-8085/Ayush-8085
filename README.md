@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Mayank</h1>
+<h1 align="center">👋 Hello, I'm Ayush</h1>
 <h3 align="center">Building Impactful Projects 🌍</h3>
 
 ---
@@ -44,5 +44,5 @@ I love building products, participating in hackathons, and sharing knowledge on 
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=mayank-ry)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mayank-ry)
+![Profile Views](https://komarev.com/ghpvc/?username=ayush-8085)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ayush-8085)
